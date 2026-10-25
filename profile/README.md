@@ -1,17 +1,18 @@
-<a href="https://devofcodes.com"><img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/Landing/main/.github/brand/org-profile/banner.png" alt="DevOfCodes. Independent developer. Building useful software. Available for contract work, San Diego, CA." width="100%"></a>
+<a href="https://devofcodes.com"><img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/Landing/main/.github/brand/org-profile/banner.png" alt="DevOfCodes. Work you can inspect. Available for contract work, San Diego, CA." width="100%"></a>
 
 DevOfCodes is my one-person software company. This is where I share the products, tools and experiments I'm working on, and where you can hire me for **focused contract development**.
 
-#### `❯ ls --status`
+#### Where each project stands
 
-| | Project | What it is | Status |
-|---|---|---|---|
-| `01` | [**block-based-build-instructions**](https://devofcodes.com/#bbi) | AI-assisted design and build instructions for Minecraft | <img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/Landing/main/.github/brand/org-profile/status-amber.svg" width="10" height="10" alt="">&nbsp;in&nbsp;development |
-| `02` | [**dfs-command-center**](https://devofcodes.com/#dfs) | Research and portfolio workbench for DraftKings and FanDuel | <img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/Landing/main/.github/brand/org-profile/status-green.svg" width="10" height="10" alt="">&nbsp;in&nbsp;daily&nbsp;use |
-| `03` | [**open-editor-platform**](https://devofcodes.com/open-editor.html) | A plan for an open-source editor SDK | <img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/Landing/main/.github/brand/org-profile/status-cyan.svg" width="10" height="10" alt="">&nbsp;research&nbsp;plan |
-| `04` | [**devofcodes-platform**](https://devofcodes.com/#platform) | Multi-tenant foundation, Falcon on top | <img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/Landing/main/.github/brand/org-profile/status-muted.svg" width="10" height="10" alt="">&nbsp;prototype |
+| Project | What it is | Status |
+|---|---|---|
+| [**DFS Command Center**](https://devofcodes.com/#dfs) | Research and portfolio workbench for DraftKings and FanDuel | <img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/.github/main/profile/status-green.svg" width="10" height="10" alt="">&nbsp;In&nbsp;daily&nbsp;use |
+| [**AI toolkit**](https://devofcodes.com/toolkit.html) | The Claude Code skills and agents I work with. Public, MIT: [agent-toolkit](https://github.com/Dev-of-Codes-LLC/agent-toolkit) | <img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/.github/main/profile/status-green.svg" width="10" height="10" alt="">&nbsp;In&nbsp;daily&nbsp;use |
+| [**Block-Based Build Instructions**](https://devofcodes.com/#bbi) | AI-assisted design and build instructions for Minecraft | <img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/.github/main/profile/status-dev.svg" width="10" height="10" alt="">&nbsp;In&nbsp;development |
+| [**The DevOfCodes platform**](https://devofcodes.com/#platform) | Multi-tenant foundation, Falcon on top | <img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/.github/main/profile/status-muted.svg" width="10" height="10" alt="">&nbsp;Prototype |
+| [**Open Editor Platform**](https://devofcodes.com/#editor) | A plan for an open-source editor SDK | <img src="https://raw.githubusercontent.com/Dev-of-Codes-LLC/.github/main/profile/status-plan.svg" width="10" height="10" alt="">&nbsp;Research&nbsp;plan |
 
-<sub>4 projects · 0 customers · 1 person. The product repositories are private; [Landing](https://github.com/Dev-of-Codes-LLC/Landing) is the source for devofcodes.com.</sub>
+<sub>5 projects · 2 in daily use · 0 customers · 1 person. Every status change goes in [the log](https://devofcodes.com/changelog.html). The AI toolkit is public; the product repositories are private; [Landing](https://github.com/Dev-of-Codes-LLC/Landing) is the source for devofcodes.com.</sub>
 
 #### Work with me
 
