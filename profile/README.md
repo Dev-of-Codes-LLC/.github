@@ -24,4 +24,4 @@ A written scope with acceptance criteria, a fixed quote, work merged in units wi
 
 **[Discuss a project →](https://devofcodes.com/#contact)** &nbsp;·&nbsp; [hello@devofcodes.com](mailto:hello@devofcodes.com)
 
-<sub>[devofcodes.com](https://devofcodes.com) · [Log](https://devofcodes.com/changelog.html) · [LinkedIn](https://www.linkedin.com/company/devofcodes/) · [X](https://x.com/DevOfCodes) · Max Wahlgren, San Diego, California</sub>
+<sub>[devofcodes.com](https://devofcodes.com) · [Log](https://devofcodes.com/changelog.html) · [X](https://x.com/DevOfCodes) · Max Wahlgren, San Diego, California</sub>
